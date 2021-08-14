@@ -60,11 +60,9 @@ icon="right" %}}
 
 {{% /home-tickets %}}
 
-<!--
 {{% partners categories="gold,silver,bronze,green" %}}
 # Partners
 {{% /partners %}}
--->
 
 <div style="text-align: center; margin-bottom: 20px;">
 
