@@ -1,0 +1,19 @@
+---
+title: スポンサー
+menu:
+  main:
+    weight: 20
+
+draft: false
+---
+
+{{% hero %}}
+
+
+{{% /hero %}}
+
+<!-- Parteners list -->
+
+{{% partners categories="gold,silver,bronze,green" %}}
+
+{{% /partners %}}
