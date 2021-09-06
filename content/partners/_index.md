@@ -12,7 +12,7 @@ draft: false
 
 {{% /hero %}}
 
-<!-- Parteners list -->
+<!-- Partners list -->
 
 {{% partners categories="gold,silver,bronze,green" %}}
 
