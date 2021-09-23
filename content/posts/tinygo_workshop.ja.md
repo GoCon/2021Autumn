@@ -57,9 +57,9 @@ Wio Terminal は Seeed 社のディスプレイ付きの開発ボードです。
 
 マイコンは Microchip 社の ATSAMD51P19 (Arm Cortex-M4 120MHz) が搭載されています。
 
-![](wioterminal-01.png)
+![](/images/tinygo_workshop/wioterminal-01.png)
 
-![](wioterminal-02.png)
+![](/images/tinygo_workshop/wioterminal-02.png)
 
 ※画像は [公式サイト](https://www.seeedstudio.com/Wio-Terminal-p-4509.html) より
 
@@ -94,4 +94,4 @@ connpass 登録時に `Wio Terminal プレゼント企画に応募する` にチ
 Seeed K.K. | Seeed株式会社  
 https://www.seeed.co.jp/
 
-![](seeed.png)
+![](/images/tinygo_workshop/seeed.png)
