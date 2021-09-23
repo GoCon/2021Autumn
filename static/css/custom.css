@@ -255,3 +255,10 @@
 .cfp .btn {
     margin: var(--space-4);
 }
+
+/* layouts/posts/single.html */
+.hero time {
+    padding: 0 var(--container-margin) 2rem;
+    display: block;
+    text-align: right;
+}
