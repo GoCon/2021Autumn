@@ -59,6 +59,13 @@ icon="right" %}}
            actionLabel="home_tickets_action"
            url="https://gocon.connpass.com/event/213865/">}}
 </li>
+<li>{{<ticket name="TinyGo Workshop"
+           starts="2021-10-01"
+           ends="2021-11-23"
+           price="0 JPY"
+           actionLabel="home_tickets_detail"
+           url="posts/tinygo_workshop">}}
+</li>
 </ul>
 
 {{% /home-tickets %}}

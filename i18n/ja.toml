@@ -18,6 +18,9 @@ other = "売り切れ"
 [home_tickets_close]
 other = "準備中"
 
+[home_tickets_detail]
+other = "詳細を見る"
+
 [home_location_direction]
 other = "検索"
 
