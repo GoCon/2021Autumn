@@ -58,6 +58,7 @@ icon="right" %}}
            starts="2021-10-01"
            ends="2021-11-23"
            price="無料"
+           actionLabel="home_tickets_action"
            url="https://gocon.connpass.com/event/213865/">}}</li>
 </li>
 </ul>

@@ -17,7 +17,7 @@
 {{ else }}
 <a href="{{ .Get "url" }} "class="btn primary" rel="noreferrer" target="_blank">
 {{- partial "icon.html" "ticket" -}}
-{{- i18n "home_tickets_action" -}}
+{{- i18n (.Get "actionLabel") -}}
 </a>
 {{ end -}}
 </div>
