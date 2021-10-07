@@ -325,20 +325,20 @@ This event will be held in Japanese.</description>
     </item>
     
     <item>
-      <title>スポンサーセッション</title>
-      <link>https://gocon.jp/2021autumn/sessions/sponsor-bitkey/</link>
+      <title>ゲームサーバ基盤TakashoをGoで開発して良かった点と課題感</title>
+      <link>https://gocon.jp/2021autumn/sessions/sponsor-dena/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gocon.jp/2021autumn/sessions/sponsor-bitkey/</guid>
+      <guid>https://gocon.jp/2021autumn/sessions/sponsor-dena/</guid>
       <description></description>
     </item>
     
     <item>
       <title>スポンサーセッション</title>
-      <link>https://gocon.jp/2021autumn/sessions/sponsor-dena/</link>
+      <link>https://gocon.jp/2021autumn/sessions/sponsor-bitkey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gocon.jp/2021autumn/sessions/sponsor-dena/</guid>
+      <guid>https://gocon.jp/2021autumn/sessions/sponsor-bitkey/</guid>
       <description></description>
     </item>
     
@@ -357,7 +357,8 @@ This event will be held in Japanese.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gocon.jp/2021autumn/sessions/sponsor-miidas/</guid>
-      <description></description>
+      <description>転職サービス「ミイダス」ではリリース当初からGoを採用し、現在運用6年目です。売上も0=&amp;gt;30億を超える規模のサービスになっています。
+この間にやらかしてしまったこと、いまも残っている課題についての事例を共有します。特に10ｰ30人程度の開発メンバーを抱えるチームや、これからチームを拡大していく開発者に向けた内容です。</description>
     </item>
     
     <item>
