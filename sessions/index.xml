@@ -344,15 +344,6 @@ This event will be held in Japanese.</description>
     
     <item>
       <title>スポンサーセッション</title>
-      <link>https://gocon.jp/2021autumn/sessions/sponsor-kaminashi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gocon.jp/2021autumn/sessions/sponsor-kaminashi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>スポンサーセッション</title>
       <link>https://gocon.jp/2021autumn/sessions/sponsor-miidas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -368,6 +359,16 @@ This event will be held in Japanese.</description>
       
       <guid>https://gocon.jp/2021autumn/sessions/sponsor-remo/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>ノンデスクワーカー向けノーコードサービスのつらみ・うまみ</title>
+      <link>https://gocon.jp/2021autumn/sessions/sponsor-kaminashi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021autumn/sessions/sponsor-kaminashi/</guid>
+      <description>Sassをほぼ使った事がない、ノンデスクワーカーの方々の武器になるノーコードサービスをカミナシはGoで作っています。
+サービス特性上、深いネストになりやすい木構造のデータをGoでさばく辛みだったり、木構造の各階層で複雑なデータパターンを安定的に扱う静的型付けの恩恵など、カミナシでGoを扱ってきて学んだ辛み・旨みを凝縮して共有させていただきます。</description>
     </item>
     
     <item>
