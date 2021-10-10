@@ -335,15 +335,6 @@ This event will be held in Japanese.</description>
     
     <item>
       <title>スポンサーセッション</title>
-      <link>https://gocon.jp/2021autumn/sessions/sponsor-bitkey/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gocon.jp/2021autumn/sessions/sponsor-bitkey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>スポンサーセッション</title>
       <link>https://gocon.jp/2021autumn/sessions/sponsor-miidas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -380,6 +371,19 @@ This event will be held in Japanese.</description>
       <description>Rettyではおよそ10年以上動いているPHPのモノリスから、Goベースのマイクロサービスへの移行を続けています。
 長く開発が行われていましたが、2021年の3月から部分的に本番で運用されることになりました。
 育ち過ぎたモノリスからGo製マイクロサービスへの移行、実用までの最後の仕上げについてご紹介します。</description>
+    </item>
+    
+    <item>
+      <title>人生いろいろモノレポもいろいろ♪</title>
+      <link>https://gocon.jp/2021autumn/sessions/sponsor-bitkey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021autumn/sessions/sponsor-bitkey/</guid>
+      <description>モノレポ(Monorepo)とは、複数のモジュールやパッケージを単一のレポジトリで管理する手法です。
+Go でモノレポというと最近では、Bazel (&amp;amp; Gazelle) を活用したものがイメージされることが多いですが、他にも実現方法はあります。
+一番シンプルなものとして、単一Go モジュールによるモノレポがあります。 その他にも、ビルドツールを導入せず、Go モジュールを複数含めるパターンなど、様々なものがあります。
+こうした背景をもとに発表では以下の内容をお話しします。
+ モノレポの移行の目的 モノレポが本当に必要なのか モノレポのどのパターンが適しているのか モノレポへの移行方法  </description>
     </item>
     
     <item>
