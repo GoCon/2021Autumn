@@ -1,8 +1,8 @@
 ---
 key: issei_kimura
 id: issei_kimura
-name: Issei Kimura
-company: kaminashi, Inc.
+name: 木村一成
+company: 株式会社カミナシ
 photoURL: /images/speakers/issei_kimura.jpg
 partner: true
 ---
