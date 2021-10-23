@@ -602,18 +602,6 @@
                 href="https://gocon.jp/2021autumn/ja/sessions/"
                 />
   </url><url>
-    <loc>https://gocon.jp/2021autumn/ja/speakers/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gocon.jp/2021autumn/speakers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://gocon.jp/2021autumn/ja/speakers/"
-                />
-  </url><url>
     <loc>https://gocon.jp/2021autumn/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -732,6 +720,18 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://gocon.jp/2021autumn/ja/sessions/sponsor-dena/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/speakers/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/speakers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/speakers/"
                 />
   </url><url>
     <loc>https://gocon.jp/2021autumn/ja/partners/</loc>
