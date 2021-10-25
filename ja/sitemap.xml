@@ -590,6 +590,18 @@
                 href="https://gocon.jp/2021autumn/ja/sessions/handmade-http-router/"
                 />
   </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/remo-japan/remo-japan/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/remo-japan/remo-japan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/remo-japan/remo-japan/"
+                />
+  </url><url>
     <loc>https://gocon.jp/2021autumn/ja/sessions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -758,16 +770,16 @@
                 href="https://gocon.jp/2021autumn/ja/sessions/sponsor-miidas/"
                 />
   </url><url>
-    <loc>https://gocon.jp/2021autumn/ja/sessions/sponsor-remo/</loc>
+    <loc>https://gocon.jp/2021autumn/ja/sessions/sponsor-remo-japan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gocon.jp/2021autumn/sessions/sponsor-remo/"
+                href="https://gocon.jp/2021autumn/sessions/sponsor-remo-japan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://gocon.jp/2021autumn/ja/sessions/sponsor-remo/"
+                href="https://gocon.jp/2021autumn/ja/sessions/sponsor-remo-japan/"
                 />
   </url><url>
     <loc>https://gocon.jp/2021autumn/ja/schedule/</loc>

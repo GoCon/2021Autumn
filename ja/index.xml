@@ -488,6 +488,15 @@ net/httpを使った簡単なサーバーを起動するコードの読み解き
     </item>
     
     <item>
+      <title>Remo Japan株式会社</title>
+      <link>https://gocon.jp/2021autumn/ja/partners/remo-japan/remo-japan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021autumn/ja/partners/remo-japan/remo-japan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The use of goroutines and channels in the example of two-phase commit</title>
       <link>https://gocon.jp/2021autumn/ja/sessions/two-phase-commit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -595,10 +604,10 @@ This event will be held in Japanese.</description>
     
     <item>
       <title>スポンサーセッション: Remo Japan株式会社</title>
-      <link>https://gocon.jp/2021autumn/ja/sessions/sponsor-remo/</link>
+      <link>https://gocon.jp/2021autumn/ja/sessions/sponsor-remo-japan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gocon.jp/2021autumn/ja/sessions/sponsor-remo/</guid>
+      <guid>https://gocon.jp/2021autumn/ja/sessions/sponsor-remo-japan/</guid>
       <description></description>
     </item>
     
