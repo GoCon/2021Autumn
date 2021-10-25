@@ -21,6 +21,8 @@ jobs:
           app_id: ${{ secrets.PREVIEW_APP_ID }}
           private_key: ${{ secrets.PREVIEW_APP_PRIVATE_KEY }}
 
+      # PRを即マージしたとき、プレビューのデプロイの完了前にリポジトリの削除が行われて
+      # エラーが発生するのを防ぐ
       - name: Wait for preview GitHub Pages
         run: >
           timeout 60s bash -c '
