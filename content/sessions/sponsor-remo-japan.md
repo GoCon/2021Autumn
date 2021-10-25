@@ -1,10 +1,10 @@
 ---
-key: sponsor-remo
+key: sponsor-remo-japan
 title: 'Sponsor Session: Remo Japan Co., Ltd.'
-id: sponsor-remo
+id: sponsor-remo-japan
 format: conference
 talkType: sponsor_session
-partner: remo
+partner: remo-japan
 allroom: false
 speakers: []
 ---
