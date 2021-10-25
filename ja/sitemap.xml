@@ -374,6 +374,42 @@
                 href="https://gocon.jp/2021autumn/ja/sessions/azure-ad-auth-server/"
                 />
   </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/silver/basebank/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/silver/basebank/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/silver/basebank/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/bronze/chompy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/bronze/chompy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/bronze/chompy/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/bronze/classi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/bronze/classi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/bronze/classi/"
+                />
+  </url><url>
     <loc>https://gocon.jp/2021autumn/ja/sessions/go-cloud-gaming-platform/</loc>
     <xhtml:link
                 rel="alternate"
@@ -590,6 +626,18 @@
                 href="https://gocon.jp/2021autumn/ja/sessions/handmade-http-router/"
                 />
   </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/bronze/seeed/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/bronze/seeed/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/bronze/seeed/"
+                />
+  </url><url>
     <loc>https://gocon.jp/2021autumn/ja/sessions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -684,6 +732,18 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://gocon.jp/2021autumn/ja/sessions/go-unicode/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/bronze/wantedly/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/bronze/wantedly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/bronze/wantedly/"
                 />
   </url><url>
     <loc>https://gocon.jp/2021autumn/ja/sessions/opening/</loc>
@@ -782,6 +842,18 @@
                 href="https://gocon.jp/2021autumn/ja/schedule/"
                 />
   </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/silver/tricot/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/silver/tricot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/silver/tricot/"
+                />
+  </url><url>
     <loc>https://gocon.jp/2021autumn/ja/sessions/sponsor-kaminashi/</loc>
     <xhtml:link
                 rel="alternate"
@@ -792,6 +864,42 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://gocon.jp/2021autumn/ja/sessions/sponsor-kaminashi/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/bronze/future/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/bronze/future/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/bronze/future/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/silver/fuller/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/silver/fuller/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/silver/fuller/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/silver/hey/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/silver/hey/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/silver/hey/"
                 />
   </url><url>
     <loc>https://gocon.jp/2021autumn/ja/</loc>
@@ -890,6 +998,18 @@
                 href="https://gocon.jp/2021autumn/ja/sessions/_break/"
                 />
   </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/bronze/zauel/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/bronze/zauel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/bronze/zauel/"
+                />
+  </url><url>
     <loc>https://gocon.jp/2021autumn/ja/sessions/after-party/</loc>
     <xhtml:link
                 rel="alternate"
@@ -902,6 +1022,78 @@
                 href="https://gocon.jp/2021autumn/ja/sessions/after-party/"
                 />
   </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/bronze/viven/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/bronze/viven/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/bronze/viven/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/bronze/appify/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/bronze/appify/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/bronze/appify/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/bronze/arigatobank/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/bronze/arigatobank/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/bronze/arigatobank/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/bronze/flatt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/bronze/flatt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/bronze/flatt/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/bronze/jxpress/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/bronze/jxpress/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/bronze/jxpress/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/silver/andpad/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/silver/andpad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/silver/andpad/"
+                />
+  </url><url>
     <loc>https://gocon.jp/2021autumn/ja/partners/gold/kaminashi/</loc>
     <xhtml:link
                 rel="alternate"
@@ -912,6 +1104,30 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://gocon.jp/2021autumn/ja/partners/gold/kaminashi/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/silver/kanmu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/silver/kanmu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/silver/kanmu/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/bronze/cyberagent/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/bronze/cyberagent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/bronze/cyberagent/"
                 />
   </url><url>
     <loc>https://gocon.jp/2021autumn/ja/partners/gold/dena/</loc>
@@ -936,6 +1152,54 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://gocon.jp/2021autumn/ja/partners/gold/bitkey/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/green/fukuroulabo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/green/fukuroulabo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/green/fukuroulabo/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/bronze/moneyforward/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/bronze/moneyforward/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/bronze/moneyforward/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/silver/mediado/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/silver/mediado/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/silver/mediado/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/silver/yappli/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/silver/yappli/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/silver/yappli/"
                 />
   </url>
 </urlset>
