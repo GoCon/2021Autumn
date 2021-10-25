@@ -21,7 +21,7 @@ jobs:
           app_id: ${{ secrets.PREVIEW_APP_ID }}
           private_key: ${{ secrets.PREVIEW_APP_PRIVATE_KEY }}
 
-      - name: Wait for preview repo
+      - name: Wait for preview GitHub Pages
         run: >
           REPO_URL="$REPO_URL"
             timeout 60s bash -c '
