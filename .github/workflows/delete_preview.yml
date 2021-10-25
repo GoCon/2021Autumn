@@ -23,14 +23,14 @@ jobs:
 
       - name: Wait for preview GitHub Pages
         run: >
-          REPO_URL="$REPO_URL"
+          URL="$URL"
             timeout 60s bash -c '
-              until curl -I -f --no-progress-meter "$REPO_URL"; do
+              until curl -I -f --no-progress-meter "$URL"; do
                 sleep 10;
               done
             '
         env:
-          REPO_URL: ${{ steps.preview_repo.outputs.gh_page_url }}
+          URL: ${{ steps.preview_repo.outputs.gh_page_url }}
 
       - name: Delete preview repo
         uses: octokit/request-action@v2.x
