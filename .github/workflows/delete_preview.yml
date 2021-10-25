@@ -23,7 +23,7 @@ jobs:
 
       - name: Wait for preview repo
         run: |
-          REPO_NAME="$REPO_NAME" \
+          REPO_URL="$REPO_URL" \
             timeout 60s bash -c ' \
               until curl -I --fail "$REPO_URL"; do sleep 10; done \
             '
