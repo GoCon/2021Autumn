@@ -28,7 +28,7 @@ jobs:
               until curl -I --fail "$REPO_URL"; do sleep 10; done \
             '
         env:
-          REPO_URL: ${{ steps.preview_repo.outputs.gh_pages_url }}
+          REPO_URL: ${{ steps.preview_repo.outputs.gh_page_url }}
 
       - name: Delete preview repo
         uses: octokit/request-action@v2.x
