@@ -818,6 +818,18 @@
                 href="https://gocon.jp/2021autumn/ja/sessions/microservice-last-steps/"
                 />
   </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/gold/miidas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/gold/miidas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/gold/miidas/"
+                />
+  </url><url>
     <loc>https://gocon.jp/2021autumn/ja/sessions/_lunch/</loc>
     <xhtml:link
                 rel="alternate"
@@ -876,6 +888,42 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://gocon.jp/2021autumn/ja/sessions/after-party/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/gold/kaminashi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/gold/kaminashi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/gold/kaminashi/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/gold/dena/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/gold/dena/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/gold/dena/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/partners/gold/bitkey/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/gold/bitkey/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/gold/bitkey/"
                 />
   </url>
 </urlset>

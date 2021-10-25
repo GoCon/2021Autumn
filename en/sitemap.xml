@@ -388,6 +388,18 @@
   </url><url>
     <loc>https://gocon.jp/2021autumn/partners/silver/basebank/</loc>
   </url><url>
+    <loc>https://gocon.jp/2021autumn/partners/gold/bitkey/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/gold/bitkey/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/gold/bitkey/"
+                />
+  </url><url>
     <loc>https://gocon.jp/2021autumn/sessions/_break/</loc>
     <xhtml:link
                 rel="alternate"
@@ -622,6 +634,18 @@
                 href="https://gocon.jp/2021autumn/sessions/io-fs-testability/"
                 />
   </url><url>
+    <loc>https://gocon.jp/2021autumn/partners/gold/kaminashi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/gold/kaminashi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/gold/kaminashi/"
+                />
+  </url><url>
     <loc>https://gocon.jp/2021autumn/sessions/crafting-shell/</loc>
     <xhtml:link
                 rel="alternate"
@@ -644,6 +668,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gocon.jp/2021autumn/sessions/_lunch/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/partners/gold/miidas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/gold/miidas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/gold/miidas/"
                 />
   </url><url>
     <loc>https://gocon.jp/2021autumn/sessions/handmade-http-router/</loc>
@@ -874,8 +910,6 @@
                 href="https://gocon.jp/2021autumn/sessions/microservice-last-steps/"
                 />
   </url><url>
-    <loc>https://gocon.jp/2021autumn/partners/gold/miidas/</loc>
-  </url><url>
     <loc>https://gocon.jp/2021autumn/sessions/sponsor-bitkey/</loc>
     <xhtml:link
                 rel="alternate"
@@ -914,15 +948,21 @@
   </url><url>
     <loc>https://gocon.jp/2021autumn/partners/silver/andpad/</loc>
   </url><url>
-    <loc>https://gocon.jp/2021autumn/partners/gold/kaminashi/</loc>
-  </url><url>
     <loc>https://gocon.jp/2021autumn/partners/silver/kanmu/</loc>
   </url><url>
     <loc>https://gocon.jp/2021autumn/partners/bronze/cyberagent/</loc>
   </url><url>
     <loc>https://gocon.jp/2021autumn/partners/gold/dena/</loc>
-  </url><url>
-    <loc>https://gocon.jp/2021autumn/partners/gold/bitkey/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/partners/gold/dena/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/partners/gold/dena/"
+                />
   </url><url>
     <loc>https://gocon.jp/2021autumn/partners/green/fukuroulabo/</loc>
   </url><url>
