@@ -720,6 +720,18 @@
                 href="https://gocon.jp/2021autumn/speakers/"
                 />
   </url><url>
+    <loc>https://gocon.jp/2021autumn/sessions/sponsor-remo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/sessions/sponsor-remo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/sessions/sponsor-remo/"
+                />
+  </url><url>
     <loc>https://gocon.jp/2021autumn/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -828,18 +840,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gocon.jp/2021autumn/sessions/sponsor-miidas/"
-                />
-  </url><url>
-    <loc>https://gocon.jp/2021autumn/sessions/sponsor-remo/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://gocon.jp/2021autumn/ja/sessions/sponsor-remo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gocon.jp/2021autumn/sessions/sponsor-remo/"
                 />
   </url><url>
     <loc>https://gocon.jp/2021autumn/partners/silver/tricot/</loc>

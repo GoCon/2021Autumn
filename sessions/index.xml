@@ -256,6 +256,15 @@ net/httpを使った簡単なサーバーを起動するコードの読み解き
     </item>
     
     <item>
+      <title>Sponsor Session: Remo Japan</title>
+      <link>https://gocon.jp/2021autumn/sessions/sponsor-remo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021autumn/sessions/sponsor-remo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The use of goroutines and channels in the example of two-phase commit</title>
       <link>https://gocon.jp/2021autumn/sessions/two-phase-commit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -341,15 +350,6 @@ This event will be held in Japanese.</description>
       <guid>https://gocon.jp/2021autumn/sessions/sponsor-miidas/</guid>
       <description>転職サービス「ミイダス」ではリリース当初からGoを採用し、現在運用6年目です。売上も0=&amp;gt;30億を超える規模のサービスになっています。
 この間にやらかしてしまったこと、いまも残っている課題についての事例を共有します。特に10ｰ30人程度の開発メンバーを抱えるチームや、これからチームを拡大していく開発者に向けた内容です。</description>
-    </item>
-    
-    <item>
-      <title>スポンサーセッション: Remo</title>
-      <link>https://gocon.jp/2021autumn/sessions/sponsor-remo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gocon.jp/2021autumn/sessions/sponsor-remo/</guid>
-      <description></description>
     </item>
     
     <item>
