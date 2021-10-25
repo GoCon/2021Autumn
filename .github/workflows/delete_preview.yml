@@ -23,12 +23,11 @@ jobs:
 
       - name: Wait for preview GitHub Pages
         run: >
-          URL="$URL"
-            timeout 60s bash -c '
-              until curl -I -f --no-progress-meter "$URL"; do
-                sleep 10;
-              done
-            '
+          timeout 60s bash -c '
+            until curl -I -f --no-progress-meter "$URL"; do
+              sleep 10;
+            done
+          '
         env:
           URL: ${{ steps.preview_repo.outputs.gh_page_url }}
 
