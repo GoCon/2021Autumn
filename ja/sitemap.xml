@@ -530,6 +530,18 @@
                 href="https://gocon.jp/2021autumn/ja/sessions/fast-scalable-reverse-geocoding/"
                 />
   </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/sessions/sponsor-miidas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/sessions/sponsor-miidas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/sessions/sponsor-miidas/"
+                />
+  </url><url>
     <loc>https://gocon.jp/2021autumn/ja/sessions/go-static-analysis/</loc>
     <xhtml:link
                 rel="alternate"
@@ -804,18 +816,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://gocon.jp/2021autumn/ja/partners/"
-                />
-  </url><url>
-    <loc>https://gocon.jp/2021autumn/ja/sessions/sponsor-miidas/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gocon.jp/2021autumn/sessions/sponsor-miidas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://gocon.jp/2021autumn/ja/sessions/sponsor-miidas/"
                 />
   </url><url>
     <loc>https://gocon.jp/2021autumn/ja/sessions/sponsor-remo-japan/</loc>
