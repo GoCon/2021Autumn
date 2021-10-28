@@ -674,18 +674,6 @@
                 href="https://gocon.jp/2021autumn/ja/tags/"
                 />
   </url><url>
-    <loc>https://gocon.jp/2021autumn/ja/sessions/two-phase-commit/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gocon.jp/2021autumn/sessions/two-phase-commit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://gocon.jp/2021autumn/ja/sessions/two-phase-commit/"
-                />
-  </url><url>
     <loc>https://gocon.jp/2021autumn/ja/sessions/workshop_a/</loc>
     <xhtml:link
                 rel="alternate"
@@ -960,6 +948,18 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://gocon.jp/2021autumn/ja/partners/bronze/remo-japan/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/sessions/two-phase-commit/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/sessions/two-phase-commit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/sessions/two-phase-commit/"
                 />
   </url><url>
     <loc>https://gocon.jp/2021autumn/ja/sessions/sponsor-bitkey/</loc>
