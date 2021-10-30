@@ -675,15 +675,6 @@ This event will be held in Japanese.</description>
     </item>
     
     <item>
-      <title>Understanding the Go scheduling - Goにおけるスケジューリングの体系化(仮)</title>
-      <link>https://gocon.jp/2021autumn/sessions/go-scheduling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gocon.jp/2021autumn/sessions/go-scheduling/</guid>
-      <description>Goにおいて複数のゴールーチンを並行に実行するためのスケジューラは、Goランタイム内で実装されています。しかし現在のスケジューラの大枠が実装されたのは9年前のGo1.1であり、世の中におけるGoのスケジューラ解説はそのときに世に出た公式設計書を元に、視覚的な図ベースで組み立てられているものがほとんどです。本セッションでは、スケジューラの挙動について実際のruntimeパッケージ内のコードベースで理解することを目的に、スケジューラについての説明体系を再構築します。</description>
-    </item>
-    
-    <item>
       <title>Write an embedded time-series database in Go</title>
       <link>https://gocon.jp/2021autumn/sessions/embedded-time-series-db/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -720,6 +711,15 @@ This event will be held in Japanese.</description>
       
       <guid>https://gocon.jp/2021autumn/sessions/sponsor-dena/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>スケジューラから学ぶGoランタイム 〜 code reading of runtime pkg〜</title>
+      <link>https://gocon.jp/2021autumn/sessions/go-scheduling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021autumn/sessions/go-scheduling/</guid>
+      <description>Goにおいて複数のゴールーチンを並行に実行するためのスケジューラは、Goランタイム内で実装されています。しかし現在のスケジューラの大枠が実装されたのは9年前のGo1.1であり、世の中におけるGoのスケジューラ解説はそのときに世に出た公式設計書を元に、視覚的な図ベースで組み立てられているものがほとんどです。本セッションでは、スケジューラの挙動について実際のruntimeパッケージ内のコードベースで理解することを目的に、スケジューラについての説明体系を再構築します。</description>
     </item>
     
     <item>

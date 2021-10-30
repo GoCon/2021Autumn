@@ -880,18 +880,6 @@
                 href="https://gocon.jp/2021autumn/sessions/workshop_b/"
                 />
   </url><url>
-    <loc>https://gocon.jp/2021autumn/sessions/go-scheduling/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://gocon.jp/2021autumn/ja/sessions/go-scheduling/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gocon.jp/2021autumn/sessions/go-scheduling/"
-                />
-  </url><url>
     <loc>https://gocon.jp/2021autumn/sessions/embedded-time-series-db/</loc>
     <xhtml:link
                 rel="alternate"
@@ -938,6 +926,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gocon.jp/2021autumn/sessions/sponsor-dena/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/sessions/go-scheduling/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/sessions/go-scheduling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/sessions/go-scheduling/"
                 />
   </url><url>
     <loc>https://gocon.jp/2021autumn/partners/silver/tricot/</loc>
