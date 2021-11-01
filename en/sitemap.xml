@@ -362,18 +362,6 @@
                 href="https://gocon.jp/2021autumn/speakers/ymtyta/"
                 />
   </url><url>
-    <loc>https://gocon.jp/2021autumn/sessions/azure-ad-auth-server/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://gocon.jp/2021autumn/ja/sessions/azure-ad-auth-server/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gocon.jp/2021autumn/sessions/azure-ad-auth-server/"
-                />
-  </url><url>
     <loc>https://gocon.jp/2021autumn/sessions/after-party/</loc>
     <xhtml:link
                 rel="alternate"
@@ -384,6 +372,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gocon.jp/2021autumn/sessions/after-party/"
+                />
+  </url><url>
+    <loc>https://gocon.jp/2021autumn/sessions/azure-ad-auth-server/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/sessions/azure-ad-auth-server/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/sessions/azure-ad-auth-server/"
                 />
   </url><url>
     <loc>https://gocon.jp/2021autumn/partners/silver/basebank/</loc>

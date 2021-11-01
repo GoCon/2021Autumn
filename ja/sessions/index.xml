@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language><atom:link href="https://gocon.jp/2021autumn/ja/sessions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>(仮) Azure ADに完全対応した認証プロキシ・webサーバを開発してみた話</title>
+      <title>Azure AD対応の認証プロキシサーバをGoで作ってみた話</title>
       <link>https://gocon.jp/2021autumn/ja/sessions/azure-ad-auth-server/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
