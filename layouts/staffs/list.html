@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+{{ $staffs := where (where .Site.AllPages ".Section" "staffs") "Kind" "page" }}
+{{ $greenStaffs := where $staffs "Params.isGreen" true }}
+
+<section>
+  <div class="staffs">
+    {{ range ($staffs | symdiff $greenStaffs) }}
+      {{ partial "staff.html" . }}
+    {{ end }}
+  </div>
+</section>
+
+<h2>{{ i18n "staff_green" }}</h2>
+
+<section>
+  <div class="staffs">
+    {{ range $greenStaffs }}
+      {{ partial "staff.html" . }}
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}
