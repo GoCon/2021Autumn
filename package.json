@@ -1,0 +1,19 @@
+{
+  "name": "goconjp-2021autumn",
+  "version": "1.0.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoCon/2021autumn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GoCon/2021autumn/issues"
+  },
+  "homepage": "https://github.com/GoCon/2021autumn#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "postcss-cli": "^9.0.2",
+    "postcss-preset-env": "^6.7.0"
+  }
+}
