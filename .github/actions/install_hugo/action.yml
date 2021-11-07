@@ -6,3 +6,5 @@ runs:
     - uses: peaceiris/actions-hugo@v2
       with:
         extended: true
+    - run: npm install
+      shell: bash
