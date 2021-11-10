@@ -1,6 +1,6 @@
 ---
 name: luccafort
-organization: Kyoto.goオーガナイザー, 株式会社マネーフォワード
+organization: Kyoto.goオーガナイザー / 株式会社マネーフォワード
 photoURL: /images/staffs/luccafort.jpg
 socials:
 - icon: twitter
