@@ -782,6 +782,18 @@
                 href="https://gocon.jp/2021autumn/ja/sessions/go-scheduling/"
                 />
   </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/staffs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/staffs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/staffs/"
+                />
+  </url><url>
     <loc>https://gocon.jp/2021autumn/ja/speakers/</loc>
     <xhtml:link
                 rel="alternate"
