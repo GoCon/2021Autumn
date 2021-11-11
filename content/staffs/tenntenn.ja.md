@@ -1,6 +1,6 @@
 ---
 name: tenntenn
-organization: Merpay, Inc.
+organization: 株式会社メルペイ
 photoURL: /images/staffs/tenntenn.jpg
 socials:
 - icon: twitter

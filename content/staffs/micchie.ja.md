@@ -1,6 +1,6 @@
 ---
 name: micchie
-organization: Merpay, Inc. / Women Who Go Tokyo
+organization: メルペイ / Women Who Go Tokyo
 photoURL: /images/staffs/micchiebear.png
 socials:
 - icon: twitter

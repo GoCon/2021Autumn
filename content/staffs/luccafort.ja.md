@@ -1,6 +1,6 @@
 ---
 name: luccafort
-organization: Kyoto.go organizer / Money Forward, Inc.
+organization: Kyoto.goオーガナイザー / 株式会社マネーフォワード
 photoURL: /images/staffs/luccafort.jpg
 socials:
 - icon: twitter

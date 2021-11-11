@@ -1,6 +1,6 @@
 ---
 name: decafe09
-organization: Synergy Marketing, Inc.
+organization: シナジーマーケティング株式会社
 photoURL: /images/staffs/decafe09.png
 socials:
 - icon: twitter
