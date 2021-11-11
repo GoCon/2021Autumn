@@ -2,7 +2,12 @@
 
 {{ .Content }}
 
-{{ $staffs := where (where .Site.AllPages ".Section" "staffs") "Kind" "page" }}
+{{ $pages := .Site.RegularPages }}
+{{ range .Site.Home.Translations }}
+  {{ $pages = $pages | lang.Merge .Site.RegularPages }}
+{{ end }}
+
+{{ $staffs := where (where $pages ".Section" "staffs") "Kind" "page" }}
 {{ $greenStaffs := where $staffs "Params.isGreen" true }}
 
 <section>
