@@ -1,7 +1,7 @@
 ---
 name: hatajoe
 organization: freee 株式会社
-photoURL: /images/staffs/hatajoe.png
+photoURL: /images/staffs/hatajoe.jpg
 socials:
 - icon: github
   link: https://github.com/hatajoe

@@ -1,7 +1,7 @@
 ---
 name: hatajoe
 organization: freee K.K.
-photoURL: /images/staffs/hatajoe.png
+photoURL: /images/staffs/hatajoe.jpg
 socials:
 - icon: github
   link: https://github.com/hatajoe
