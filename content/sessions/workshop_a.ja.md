@@ -8,6 +8,7 @@ inner: true
 allroom: false
 speakers:
 - sago35tk
+videoId: 6veEA0fsYuI
 ---
 
 申し込み: https://gocon.connpass.com/event/226098/
@@ -19,4 +20,6 @@ TinyGo は Go でマイコンや WASM 向けのバイナリを出力するため
 今回ハンズオンを実施するにあたり、 __Seeed株式会社様より Wio Terminal ボードをスポンサー__ していただきました。 Wio Terminal を使って、 TinyGo による組込ソフト開発を体験してみましょう。
 
 このイベントは日本語で開催されます。  
-This event will be held in Japanese.  
+This event will be held in Japanese.
+
+13:10 - 14:10 の分を以下でライブ配信／アーカイブ配信します。
