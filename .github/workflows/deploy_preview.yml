@@ -73,7 +73,8 @@ jobs:
           owner: ${{ github.event.repository.owner.login }}
           repo: ${{ github.event.repository.name }}
           pr_number: ${{ github.event.pull_request.number }}
-          body: |
-            "😎 Browse the preview: ${{ steps.preview_repo.outputs.gh_page_url }}"
+          body: >
+            "😎 Browse the preview: ${{ steps.preview_repo.outputs.gh_page_url }}\n
+            （表示されるまで数分かかることがあります）"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
