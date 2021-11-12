@@ -49,8 +49,6 @@ icon="right" %}}
 {{% /home-speakers %}}
 -->
 
-{{% live-panels %}}
-
 {{% home-tickets %}}
 
 # Registration

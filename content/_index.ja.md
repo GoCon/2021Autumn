@@ -52,8 +52,6 @@ icon="right" %}}
 {{% /home-speakers %}}
 -->
 
-{{% live-panels %}}
-
 {{% home-tickets %}}
 
 # 参加登録
