@@ -11,7 +11,8 @@ speakers:
 videoId: 6veEA0fsYuI
 ---
 
-申し込み: https://gocon.connpass.com/event/226098/
+イベントページ: https://gocon.connpass.com/event/226098/
+（参加申し込みは締め切りました。多数のお申し込みをいただき、ありがとうございました。）
 
 TinyGo ハンズオンを行います。ハンズオンでは、組込ソフトとしての側面にフォーカスし、 L チカ (LED を光らせる) などを行います。  
 
