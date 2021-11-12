@@ -50,7 +50,10 @@ icon="right" %}}
 {{% /home-speakers %}}
 -->
 
+{{% live_panels %}}
+
 {{% home-tickets %}}
+
 # 参加登録
 
 <ul>
