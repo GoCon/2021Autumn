@@ -1,3 +1,9 @@
+:root {
+  --section-margin: 4rem; }
+
+body.home .info.container.primary {
+  margin-bottom: var(--section-margin); }
+
 .staff {
   width: 50%;
   --base-space: calc(var(--space-3) * 2);
@@ -48,6 +54,18 @@
           width: 1em;
           display: inline-flex; }
 
+.shortcodes_livePanels_panels {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-4);
+  margin-bottom: var(--section-margin); }
+
+.shortcodes_livePanels_timeline {
+  width: 45%; }
+  @media (max-width: 52rem) {
+    .shortcodes_livePanels_timeline {
+      width: 80%; } }
 main .staffs {
   display: flex;
   flex-wrap: wrap;
