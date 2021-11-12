@@ -794,6 +794,18 @@
                 href="https://gocon.jp/2021autumn/ja/partners/bronze/wantedly/"
                 />
   </url><url>
+    <loc>https://gocon.jp/2021autumn/ja/sessions/_officehour/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gocon.jp/2021autumn/sessions/_officehour/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://gocon.jp/2021autumn/ja/sessions/_officehour/"
+                />
+  </url><url>
     <loc>https://gocon.jp/2021autumn/ja/sessions/opening/</loc>
     <xhtml:link
                 rel="alternate"

@@ -56,3 +56,13 @@ main .staffs {
 
 h1, h2 {
   text-align: center; }
+
+body.section.schedule .session.inner {
+  background-color: #ffffff;
+  margin-left: 1.5rem !important;
+  margin-right: 1.5rem !important; }
+  @media (max-width: 59.99em) {
+    body.section.schedule .session.inner {
+      margin: 1rem .5rem 2rem 2.25em !important; } }
+body.section.schedule .fill {
+  background-color: white; }
