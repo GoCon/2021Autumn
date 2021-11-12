@@ -50,7 +50,7 @@ icon="right" %}}
 {{% /home-speakers %}}
 -->
 
-{{% live_panels %}}
+{{% live-panels %}}
 
 {{% home-tickets %}}
 
