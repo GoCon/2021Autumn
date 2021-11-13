@@ -52,6 +52,8 @@ icon="right" %}}
 {{% /home-speakers %}}
 -->
 
+
+<!--
 {{% home-tickets %}}
 
 # 参加登録
@@ -68,7 +70,7 @@ icon="right" %}}
 </ul>
 
 {{% /home-tickets %}}
-
+-->
 
 {{% partners categories="gold,silver,bronze,green" %}}
 # スポンサー

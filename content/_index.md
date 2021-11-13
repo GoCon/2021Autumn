@@ -49,6 +49,7 @@ icon="right" %}}
 {{% /home-speakers %}}
 -->
 
+<!--
 {{% home-tickets %}}
 
 # Registration
@@ -65,6 +66,7 @@ icon="right" %}}
 </ul>
 
 {{% /home-tickets %}}
+-->
 
 {{% partners categories="gold,silver,bronze,green" %}}
 # Partners
