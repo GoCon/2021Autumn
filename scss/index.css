@@ -96,3 +96,20 @@ body.section.schedule .session.inner {
       margin: 1rem .5rem 2rem 2.25em !important; } }
 body.section.schedule .fill {
   background-color: white; }
+
+.shortcodes_nextEvent {
+  margin: var(--space-4) auto;
+  padding: var(--space-4);
+  max-width: 42rem;
+  font-size: 120%;
+  text-align: center;
+  border: var(--space-1) solid var(--primary-color);
+  border-radius: var(--space-2);
+  background-color: #efefef; }
+  .shortcodes_nextEvent .shortcodes_nextEvent_name {
+    font-weight: 600;
+    color: var(--primary); }
+    .shortcodes_nextEvent .shortcodes_nextEvent_name:hover {
+      text-decoration: underline; }
+  .shortcodes_nextEvent img {
+    max-width: 100%; }
