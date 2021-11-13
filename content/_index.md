@@ -72,6 +72,7 @@ icon="right" %}}
 # Partners
 {{% /partners %}}
 
+<!--
 <div class="plain-notice">
   <p>
     <a href="https://www.papercall.io/gocon-tokyo-2021-autumn">CfP</a> and <a href="https://drive.google.com/file/d/1TVTPtHXOSvABu8OjtAZZVVGn1uhQN8oo/view">sponsorship applications</a> have been closed on August 31.
@@ -80,7 +81,6 @@ icon="right" %}}
   <p>Thank you for your applications!</p>
 </div>
 
-<!--
 <div style="text-align: center; margin-bottom: 20px;">
 
 ## For partners

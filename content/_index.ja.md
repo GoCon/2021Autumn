@@ -77,6 +77,7 @@ icon="right" %}}
 
 {{% /partners %}}
 
+<!--
 <div class="plain-notice">
   <p>
     <a href="https://www.papercall.io/gocon-tokyo-2021-autumn">トークの募集</a>および<a href="https://drive.google.com/file/d/1TVTPtHXOSvABu8OjtAZZVVGn1uhQN8oo/view">スポンサーシップのお申し込み</a>は8月31日をもって締め切りました。
@@ -85,7 +86,6 @@ icon="right" %}}
   <p>多数のご応募、お申し込みをいただきまして、ありがとうございました。</p>
 </div>
 
-<!--
 <div style="text-align: center; margin-bottom: 20px;">
 
 ## スポンサー希望の企業様へ
