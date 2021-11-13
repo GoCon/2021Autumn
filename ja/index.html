@@ -402,6 +402,7 @@
 <div class="shortcodes_livePanels">
   <div class="shortcodes_livePanels_panels">
     <div class="shortcodes_livePanels_youtube">
+      <div class="shortcodes_livePanels_nowPlaying" data-track-name="track-a"></div>
       <iframe
         width="560"
         height="315"
@@ -413,6 +414,7 @@
       ></iframe>
     </div>
     <div class="shortcodes_livePanels_youtube">
+      <div class="shortcodes_livePanels_nowPlaying" data-track-name="track-b"></div>
       <iframe
         width="560"
         height="315"
@@ -441,6 +443,249 @@
     </div>
   </div>
 </div>
+<script>
+const tracks = [
+  {
+    "name": "track-a",
+    "playlist": [
+      {
+        "start": "10:00",
+        "title": "オープニング",
+        "key": "opening"
+      },
+      {
+        "start": "10:10",
+        "title": "Goで開発したサービスを6年間運用した\"しくじり\"",
+        "key": "sponsor-miidas"
+      },
+      {
+        "start": "10:30",
+        "title": "ノンデスクワーカー向けノーコードサービスのつらみ・うまみ",
+        "key": "sponsor-kaminashi"
+      },
+      {
+        "start": "10:50",
+        "title": "休憩",
+        "key": "break"
+      },
+      {
+        "start": "11:00",
+        "title": "Developing games in Go for Nintendo Switch™",
+        "key": "go-nintendo-switch"
+      },
+      {
+        "start": "11:40",
+        "title": "Learning Computer Systems by Crafting: Shell （作って学ぶシェル）",
+        "key": "crafting-shell"
+      },
+      {
+        "start": "12:00",
+        "title": "ランチ休憩",
+        "key": "lunch"
+      },
+      {
+        "start": "13:05",
+        "title": "スポンサーセッション: リモ・ジャパン合同会社",
+        "key": "sponsor-remo-japan"
+      },
+      {
+        "start": "13:10",
+        "title": "Go Contextを完全に理解する",
+        "key": "understanding-go-context"
+      },
+      {
+        "start": "13:50",
+        "title": "Goの標準ライブラリで扱うフォントと画像",
+        "key": "go-stdlib-font-image"
+      },
+      {
+        "start": "14:10",
+        "title": "休憩",
+        "key": "break"
+      },
+      {
+        "start": "14:20",
+        "title": "goroutineの仕組みについて",
+        "key": "how-goroutine-works"
+      },
+      {
+        "start": "14:40",
+        "title": "マイクロサービス移行を仕上げる最後の数歩",
+        "key": "microservice-last-steps"
+      },
+      {
+        "start": "15:00",
+        "title": "Golangで作るSQL Language Server(sqls)",
+        "key": "golang-sqls"
+      },
+      {
+        "start": "15:20",
+        "title": "休憩",
+        "key": "break"
+      },
+      {
+        "start": "15:40",
+        "title": "io/fsパッケージを用いたテスタブルなコード生成ツールの開発",
+        "key": "io-fs-testability"
+      },
+      {
+        "start": "16:20",
+        "title": "Floating Point Numbers and Decimal in Go",
+        "key": "go-floating-point-and-decimal"
+      },
+      {
+        "start": "16:40",
+        "title": "休憩",
+        "key": "break"
+      },
+      {
+        "start": "16:50",
+        "title": "ゲームサーバ基盤TakashoをGoで開発して良かった点と課題感",
+        "key": "sponsor-dena"
+      },
+      {
+        "start": "17:10",
+        "title": "人生いろいろモノレポもいろいろ♪",
+        "key": "sponsor-bitkey"
+      },
+      {
+        "start": "17:30",
+        "title": "休憩",
+        "key": "break"
+      },
+      {
+        "start": "17:40",
+        "title": "今日から使えるhttp.RoundTripper Tips",
+        "key": "http-roundtripper"
+      },
+      {
+        "start": "17:45",
+        "title": "GoのProposalの追い方ガイド",
+        "key": "go-proposal-guide"
+      },
+      {
+        "start": "17:50",
+        "title": "Gormのバージョンを上げたお話",
+        "key": "gorm-update"
+      },
+      {
+        "start": "17:55",
+        "title": "Azure AD対応の認証プロキシサーバをGoで作ってみた話",
+        "key": "azure-ad-auth-server"
+      },
+      {
+        "start": "18:00",
+        "title": "net/httpでつくるHTTPルーター自作入門",
+        "key": "handmade-http-router"
+      },
+      {
+        "start": "18:05",
+        "title": "golang/mockでのモック生成と管理の \"より良い\" アプローチ",
+        "key": "better-golang-mock"
+      },
+      {
+        "start": "18:10",
+        "title": "Goで静的解析をはじめてみよう",
+        "key": "go-static-analysis"
+      },
+      {
+        "start": "18:15",
+        "title": "Create Go WebDriver Client from Scratch",
+        "key": "webdriver-client-from-scratch"
+      },
+      {
+        "start": "18:30",
+        "title": "クロージング",
+        "key": "closing"
+      }
+    ]
+  },
+  {
+    "name": "track-b",
+    "playlist": [
+      {
+        "start": "11:40",
+        "title": "Cloud Gaming Platform with Go",
+        "key": "go-cloud-gaming-platform"
+      },
+      {
+        "start": "13:10",
+        "title": "Goで超高速かつスケーラブルな逆ジオコーディングAPIサーバーを作ってみた",
+        "key": "fast-scalable-reverse-geocoding"
+      },
+      {
+        "start": "13:50",
+        "title": "io/fs.FS for testability. io/fs.FS for abstraction.",
+        "key": "io-fs-fs-testability-abstraction"
+      },
+      {
+        "start": "14:20",
+        "title": "GoとGraphQLを使用したサービス開発",
+        "key": "go-graphql-service"
+      },
+      {
+        "start": "14:40",
+        "title": "二相コミットなどの具体例に見るゴルーチンとチャネルの使いどころ",
+        "key": "two-phase-commit"
+      },
+      {
+        "start": "15:00",
+        "title": "Write an embedded time-series database in Go",
+        "key": "embedded-time-series-db"
+      },
+      {
+        "start": "15:40",
+        "title": "スケジューラから学ぶGoランタイム 〜 code reading of runtime pkg〜",
+        "key": "go-scheduling"
+      },
+      {
+        "start": "16:20",
+        "title": "「🪦問題」から考えるGoのUnicodeサポート",
+        "key": "go-unicode"
+      }
+    ]
+  }
+];
+
+const dayBeginning = new Date(Date.UTC(2021, 10, 13, 0, 0));
+const toEpochMs = (japanTimeStr) => {
+  const [h, m] = japanTimeStr.split(":").map((i) => +i);
+  const timezoneOffset = -9 * 3600;
+  return dayBeginning.valueOf() + (h * 3600 + m * 60 + timezoneOffset) * 1000;
+};
+
+const findCurrentSession = (now, sessions) => {
+  const session = sessions
+    .slice()
+    .reverse()
+    .find((session) => {
+      const startMs = toEpochMs(session.start);
+      return startMs <= now.valueOf();
+    });
+  return session;
+};
+  
+setTimeout(() => {
+  const now = new Date();
+  for (const { name, playlist } of tracks) {
+    const $nowPlaying = document.querySelector(`[data-track-name="${name}"]`);
+    const session = findCurrentSession(now, playlist);
+    let content;
+    if (!session) {
+      content = document.createTextNode('Waiting...');
+    } else if (session.key === 'break') {
+      content = document.createTextNode(session.title);
+    } else {
+      content = document.createElement('a');
+      content.target = '_blank';
+      content.href= `./sessions/${session.key}`;
+      content.textContent = `Now: ${session.title}`;
+    }
+    $nowPlaying.innerHTML = '';
+    $nowPlaying.appendChild(content);
+  }
+}, 1000);
+</script>
 
 <section class="tickets">
 	<h1 id="参加登録">参加登録</h1>
