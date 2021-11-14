@@ -78,6 +78,29 @@ body.home .info.container.primary {
   @media (max-width: 52rem) {
     .shortcodes_livePanels_timeline {
       width: 80%; } }
+body.sessions .talkLinks {
+  margin: var(--space-4) 0;
+  padding: 0;
+  list-style: none;
+  text-align: center; }
+  body.sessions .talkLinks .talkLinks_link {
+    display: inline;
+    margin-left: var(--space-3);
+    margin-right: var(--space-3); }
+    body.sessions .talkLinks .talkLinks_link a {
+      display: inline-flex;
+      align-items: center;
+      margin: var(--space-4);
+      padding: .25em 1em;
+      border-radius: 1em;
+      background: var(--primary);
+      color: var(--primary-txt);
+      font-size: 125%; }
+      body.sessions .talkLinks .talkLinks_link a .icon {
+        width: 1em; }
+      body.sessions .talkLinks .talkLinks_link a:hover {
+        box-shadow: 0.0625em 0.0625em 0.125em var(--darken-3); }
+
 main .staffs {
   display: flex;
   flex-wrap: wrap;
